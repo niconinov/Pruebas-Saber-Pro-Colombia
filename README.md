@@ -6,4 +6,4 @@ Este modelo se crea en el marco de las actividades academicas desarrolladas en l
 
 - Nicolás Niño Valderrama
 - CC 1017241764
-- Ingenieria Industrial
+- Ingeniería Industrial
