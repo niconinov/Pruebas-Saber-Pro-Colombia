@@ -9,6 +9,7 @@ Este modelo se crea en el marco de las actividades academicas desarrolladas en l
 - Ingeniería Industrial
 
 ## **Enlace video YouTube**
--Entrega 2: https://youtu.be/vc2Xeyhat9s?si=d4POtcJIyQxrKJxt
--Entrega final:
+
+- Entrega 2: https://youtu.be/vc2Xeyhat9s?si=d4POtcJIyQxrKJxt
+- Entrega final:
   
