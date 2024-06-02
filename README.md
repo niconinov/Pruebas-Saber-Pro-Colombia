@@ -11,5 +11,4 @@ Este modelo se crea en el marco de las actividades academicas desarrolladas en l
 ## **Enlace video YouTube**
 
 - Entrega 2: https://youtu.be/vc2Xeyhat9s?si=d4POtcJIyQxrKJxt
-- Entrega final:
-  
+- Entrega final: https://youtu.be/d5uiqr5o_zk?si=ZwUx7Lh6oHNHOcmI 
